@@ -10,7 +10,15 @@
   }
 
   .section {
-    @apply container mx-auto px-4;
+    @apply container mx-auto px-2;
+  }
+
+  .animate-slide:hover {
+    animation-play-state: paused;
+  }
+
+  .nav-link.active {
+    @apply text-slate-900;
   }
 }
 

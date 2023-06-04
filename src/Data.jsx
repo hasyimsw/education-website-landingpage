@@ -151,17 +151,21 @@ export const accordions = [
   {
     id: 1,
     title: "What is Skillex?",
+    content: "Skillex is an online platform for learning various subjects at your own pace."
   },
   {
     id: 2,
     title: "What can I learn from Skillex?",
+    content: "Explore design, development,business, science, and more with Skillex's diverse courses."
   },
   {
     id: 3,
     title: "Can I teach on Skillex?",
+    content: "Share your expertise and teach others on Skillex's platform."
   },
   {
     id: 4,
     title: "What is included in my Skillex membership?",
+    content: "Get unlimited access to courses, updates, community forums, and flexible membership options."
   },
 ];

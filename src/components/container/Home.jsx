@@ -29,18 +29,17 @@ const Home = () => {
           <h3 className="font-semibold text-xs text-Teal mb-4">
             your e-learning partner
           </h3>
-          <h1 className="sm:text-[2.5rem] text-[1.825rem] font-bold">
+          <h1 className="sm:text-5xl text-3xl font-bold uppercase mb-2">
             This is <br /> the new way <br /> to learn online
           </h1>
-          <p className="text-sm leading-7 text-gray max-w-sm">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero
-            officia sit vitae quo, eum similique?
+          <p className="text-sm leading-6 text-gray max-w-sm">
+          Discover the innovative way to learn online. Engaging courses, expert instructors, global community. Join us now!
           </p>
           <div className="mt-6">
-            <button className="px-6 py-3 font-bold text-white bg-Teal rounded-lg mr-4 text-sm">
+            <button className="py-2 px-5 bg-Teal border-2 border-Teal text-white rounded-md text-sm font-medium shadow-md mr-5">
               Get Started
             </button>
-            <button className="px-6 py-3 font-bold border border-solid border-gray rounded-lg text-sm">
+            <button className="py-2 px-6 border-2 border-solid border-gray rounded-md text-sm font-medium shadow-md">
               Discover
             </button>
           </div>
